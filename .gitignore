@@ -29,6 +29,11 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
 
+
+# Document specific files and directories to ignore
+
+*.pdf
+
 # Python specific files and directories to ignore
 
 # Byte-compiled / optimized / DLL files
