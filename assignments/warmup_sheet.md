@@ -1,4 +1,4 @@
-![alt text](Logo_HSCoburg_ENG_RGB_Rot.svg)
+![university logo](Logo_HSCoburg_ENG_RGB_Rot.svg)
 # 1 Car Speed Tracking in a Video
 
 **Difficulty:** Easy | **Type:** L&L
